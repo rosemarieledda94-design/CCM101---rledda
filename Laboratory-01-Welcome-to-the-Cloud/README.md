@@ -1,1 +1,1 @@
-This folder contains my activities, system information, reflections, and screenshots for Laboratory 01.
+CCM101 Cloud Computing Laboratory Portfolio
