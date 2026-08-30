@@ -48,3 +48,11 @@ free -h
 df -h
 hostname
 hostname -I
+
+## Skills Learned
+
+During this laboratory, I learned how to investigate a Linux cloud environment using command-line tools. I learned how to identify CPU, memory, storage, networking, and operating system information. I also improved my understanding of cloud infrastructure services and learned how AWS, Microsoft Azure, and Google Cloud provide equivalent infrastructure services under different names. Additionally, I practiced using GitHub and Markdown to organize and document technical work.
+
+## Challenges Encountered
+
+One challenge was understanding the information returned by Linux commands and determining which values were relevant to the laboratory requirements. I also needed to understand the relationship between Linux resources and cloud infrastructure concepts. Creating and organizing the required Markdown files and screenshots in GitHub required careful attention to the folder structure and filenames. These challenges were addressed by reviewing the command output and documenting the results systematically.
