@@ -4,6 +4,13 @@
 
 ### 1. List Running Containers
 
-```bash
-docker ps
+### docker ps
+This displays currently running containers
+
+### docker stop nginx-server
+command stops the running Nginx container
+
+### docker ps -a
+command displays both running and stopped containers
+
 
